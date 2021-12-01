@@ -64,6 +64,8 @@ ul{
     transition:all 0.4s ease;
 }
 .member-avatar{
+    position: relative;
+    z-index: 1;
     width: 320px;
     height: 320px;
     transition: all 0.4s ease;
