@@ -9,8 +9,6 @@ img {
     height: 100%;
     object-fit: cover;
     object-position: center;
-    border-radius: 50%;
-
 }
 body{
     background-image: url(../img/HhPFxpT3.jpg);
@@ -69,6 +67,9 @@ ul{
     width: 320px;
     height: 320px;
     transition: all 0.4s ease;
+}
+.member-avatar img {
+    border-radius: 50%;
 }
 .member-info{
     position:absolute;

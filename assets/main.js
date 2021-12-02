@@ -17,7 +17,7 @@ const myTeamInfo = [
         name: 'Cường Nguyễn',
         phoneNumber: '0775933761',
         role: 'Dev Ops',
-        avatar: './assets/img/phong-canh-dep-trong-anime_112651330.jpg'
+        avatar: './assets/img/Ruijerd-ln-thumb.jpg'
     },
 ]
 function render() {
