@@ -1,0 +1,13 @@
+@media screen and (max-width:1200px) {
+    .team-profile {
+        flex-direction: column;
+    }
+    .member{
+        width: 100%;
+        display:flex;
+        justify-content: center;
+    }
+    .team-content{
+        height: auto;
+    }
+}
